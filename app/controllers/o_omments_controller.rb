@@ -1,0 +1,2 @@
+class OOmmentsController < ApplicationController
+end
